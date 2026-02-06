@@ -33,3 +33,5 @@ The page also uses **smooth animations**, such as fade, zoom, and slide effects.
 
 OUTPUT:
 
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/2f4b4815-007e-41d9-a115-876be8630162" />
+
